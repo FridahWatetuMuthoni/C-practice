@@ -1,0 +1,8 @@
+macros.c:26:task 1 done
+macros.c:26:task 1 done
+macros.c:26:task 1 done
+macros.c:27:task 2 done
+macros.c:35:task 1 done
+macros.c:36:task 2 done
+macros.c:35:task 1 done
+macros.c:36:task 2 done
